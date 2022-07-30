@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm, Swapnil Bhagwat.</h1>
-<h3 align="center">I'm currently a second year CSE undergrad passionate about web development, DSA and exploring the world of open source. I love to collaborate with people and learn new technologies from them.</h3>
+<h3 align="center">I'm currently a second year CSE undergrad passionate about data science and ML. I love to collaborate with people and learn new technologies from them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil604&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil604" /> </p>
 
